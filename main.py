@@ -1,0 +1,1 @@
+print("Push için ilk kod!")
